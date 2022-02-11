@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ekanemworks
-- 👀 I’m interested in Artifical inteliigence
-- 🌱 I’m currently learning Multilevel algorithm design with Python
-- 💞️ I’m looking to collaborate on e-commerce and fintech Apps
-- 📫 Code like Larry Page of Google and innovate like Elon Musk of Tesla 😂
+Hi, I’m @ekanemworks
+interested in Artifical inteliigence
+currently learning Multilevel algorithm design
 
 <!---
 ekanemworks/ekanemworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
